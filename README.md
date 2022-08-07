@@ -1,1 +1,1 @@
-#Patika Bootstrap Eğitiminin Altındaki Ödevler
+Patika Bootstrap Eğitiminin Altındaki Ödevler
