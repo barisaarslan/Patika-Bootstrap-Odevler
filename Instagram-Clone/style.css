@@ -1,0 +1,26 @@
+.boyut {
+    width: 24px;
+    height: 24px;
+}
+
+.orta {
+    text-align: center;
+}
+
+.round {
+    border-radius: 100px;
+    width: 55px;
+    height: 55px;
+    padding: 2%;
+}
+
+.round-2 {
+    border-radius: 100px;
+    width: 35px;
+    height: 35px;
+}
+
+
+.border-top-dark {
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
